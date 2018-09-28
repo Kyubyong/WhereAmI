@@ -4,7 +4,7 @@ I'm a shy person. Often I feel awkward when I'm surrounded by many people. And I
 
 * Sept. 24-26, 2018:  Busan for visiting my parents
 * Oct. 31- Nov. 4, 2018: Brussels for [EMNLP](http://emnlp2018.org/)
-* Nov. 5-?, 2018: Europe for travel
+* Nov. 5-7, 2018: Paris for travel
 * Jan. 27-Feb. 1, 2019: Honolulu for [AAAI](https://aaai.org/Conferences/AAAI-19/)
 * Feb.2-?, 2019: Honolulu for vacation
 * May 28-30, 2019: Geneva for [AI for good Global Summit 2019](https://en.wikipedia.org/wiki/AI_for_Good)
